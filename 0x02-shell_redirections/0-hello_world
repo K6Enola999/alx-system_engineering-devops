@@ -1,2 +1,2 @@
 #!/bin/bash
-pr "Hello World"
+wc "Hello World"
