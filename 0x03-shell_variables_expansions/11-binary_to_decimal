@@ -1,2 +1,2 @@
 #!/bin/bash
-printf $((#$BINARY))
+echo "$((10#$BINARY))"
